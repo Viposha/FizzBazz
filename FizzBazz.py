@@ -1,4 +1,4 @@
-# start developing
+# FizzBazz function
 
 def fizzbazz():
     for i in range(1, 100+1):
